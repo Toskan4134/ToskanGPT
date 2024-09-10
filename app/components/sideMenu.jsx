@@ -4,14 +4,27 @@ import { SideMenuButton } from './sideMenuButton';
 import moment from 'moment';
 import 'moment/locale/es';
 import { capitalize } from '../utils';
-import { Icon } from './icon';
+import { Icon } from './customIcon';
 
 moment.locale('es');
 
 export function SideMenu({ onChatChange, selectedChatId, onSetPopupProps }) {
     const [showMenu, setShowMenu] = useState(false);
-    const chatList = require('../test/testChats.json');
+    // Aquí se debería establecer la lista de chats desde una llamada a la API
 
+    /*
+    const res = await fetch(
+        'https://tu.api
+    );
+    if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`);
+    }
+    const chatList = await res.json();
+    */
+
+    // El formato que debería devolver la API debe ser el de ../test/testChats.json
+
+    const chatList = require('../test/testChats.json'); 
     function getPreviousMonths() {
         const currentYear = moment().year();
         const previousMonths = [];
