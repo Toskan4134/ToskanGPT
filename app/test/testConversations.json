@@ -1,0 +1,70 @@
+[
+    {
+        "id": 284,
+        "conversation": [
+            { "role": "user", "content": "hola" },
+            { "role": "assistant", "content": "hola" },
+            { "role": "user", "content": "Qué tal estás?" },
+            { "role": "assistant", "content": "bien y tu?" },
+            {
+                "role": "user",
+                "content": "Pues bien, esto es un ejemplo de chat"
+            },
+            { "role": "assistant", "content": "Perfecto!" }
+        ]
+    },
+    {
+        "id": 981,
+        "conversation": [
+            { "role": "user", "content": "hola" },
+            { "role": "assistant", "content": "hola" },
+            { "role": "user", "content": "Qué tal estás?" },
+            { "role": "assistant", "content": "bien y tu?" },
+            {
+                "role": "user",
+                "content": "Pues bien, esto es otro ejemplo de chat"
+            },
+            { "role": "assistant", "content": "Perfecto!" }
+        ]
+    },
+    {
+        "id": 458,
+        "conversation": [
+            { "role": "user", "content": "Sabes qué es esto?" },
+            { "role": "assistant", "content": "Otro ejemplo de chat más" }
+        ]
+    },
+    {
+        "id": 765,
+        "conversation": [
+            { "role": "user", "content": "Esto" },
+            { "role": "assistant", "content": "Es" },
+            { "role": "user", "content": "Un" },
+            { "role": "assistant", "content": "Ejemplo" },
+            { "role": "user", "content": "De" },
+            { "role": "assistant", "content": "Chat" },
+            { "role": "user", "content": "Un" },
+            { "role": "assistant", "content": "Poco" },
+            { "role": "user", "content": "Más" },
+            { "role": "assistant", "content": "Largo" },
+            { "role": "user", "content": "De" },
+            { "role": "assistant", "content": "Lo" },
+            { "role": "user", "content": "Normal" },
+            { "role": "assistant", "content": ":)" }
+        ]
+    },
+    {
+        "id": 952,
+        "conversation": [
+            { "role": "user", "content": "hola" },
+            { "role": "assistant", "content": "hola" },
+            { "role": "user", "content": "Qué tal estás?" },
+            { "role": "assistant", "content": "bien y tu?" },
+            {
+                "role": "user",
+                "content": "Pues bien, esto es un ejemplo de chat"
+            },
+            { "role": "assistant", "content": "Perfecto!" }
+        ]
+    }
+]

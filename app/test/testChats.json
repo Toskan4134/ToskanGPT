@@ -1,0 +1,11 @@
+[
+    { "name": "Chat 1 (ID 284)", "id": 284, "creationDate": "10/09/2024" },
+    {
+        "name": "Esto es un nombre largo (ID 981)",
+        "id": 981,
+        "creationDate": "5/09/2024"
+    },
+    { "name": "Chat 3 (ID 458)", "id": 458, "creationDate": "16/08/2024" },
+    { "name": "Chat 4 (ID 765)", "id": 765, "creationDate": "26/07/2024" },
+    { "name": "Chat 5 (ID 952)", "id": 952, "creationDate": "28/04/2024" }
+]
