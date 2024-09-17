@@ -22,13 +22,13 @@ Puedes descargar Node.js desde [nodejs.org](https://nodejs.org/).
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tuusuario/chatgpt-frontend.git
+git clone https://github.com/Toskan4134/ToskanGPT.git
 ```
 
 Accede a la carpeta del proyecto
 
 ```bash
-cd chatgpt-frontend
+cd ToskanGPT
 ```
 
 Instala las dependencias necesarias
